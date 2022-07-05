@@ -87,6 +87,11 @@ p{
      box-shadow: 5px 5px 10px gray; 
      border: 5px solid white;
 }
+#recipie-border{
+    border: 10px solid gray ;
+    border-radius: 15px;
+   
+}
 .footer{
     display: flex;
     justify-content: space-around;
@@ -96,6 +101,7 @@ p{
     border-radius: 30px;
     height:300px;
     box-shadow: 10px 10px 20px gray
+    margin-top:50px;
 
 }
 .footer h1{
