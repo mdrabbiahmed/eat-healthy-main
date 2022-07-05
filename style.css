@@ -1,0 +1,65 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    font-weight: 900;
+}
+h2{
+    font-size: 40px;
+    font-family:'Courier New', Courier, monospace;
+}
+p{
+    text-align: justify;
+    font-size: 25px;
+}
+.skip-color{
+    color: red;
+}
+.flexiable-container{
+    display: flex;
+    padding:5px ;
+}
+.header-width{
+    width: 80%;
+    margin: 5%;
+    padding:15px;
+    
+}
+.header-width img{
+    width: 50%;
+    padding-left:100px ;
+}
+.order-food{
+    color: rgb(158, 46, 46);
+    text-decoration: none;
+    background-image: linear-gradient(rgb(206, 206, 15), rgb(196, 54, 29));
+    border: 20px;
+    padding: 20px 40px;
+    border-radius: 30px;
+    font-weight: 900;
+    color: white;
+}
+.about-me{
+    color: tan;
+}
+.about-me-para{
+    font-size: 20px;
+    font-style: oblique;
+}
+.contact-me{
+    color: red;
+    background-image: linear-gradient(red, yellow);
+    border-radius: 30px;
+    text-decoration: none;
+    margin-bottom: 20%;
+    padding: 10px 10px;
+    font-size: 30px;
+}
+.section-banner{
+    background-image: url(images/shapes/7.png);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
