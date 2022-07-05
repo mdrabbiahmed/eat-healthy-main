@@ -63,3 +63,17 @@ p{
     background-position: center;
     background-size: 100%;
 }
+.h1{
+    text-align: center;
+    color: grey;
+}
+.para{
+    font-size: 100%;
+    text-align: justify;
+    align-items: center
+}
+.para{
+    align-items: center;
+    margin-left: 250px;
+    margin-right: 250px;
+}
